@@ -31,7 +31,7 @@ function App() {
           <>
             <HeroSection />
             <FeaturesSection />
-            <AIModelManager />  // Ensure the component is correctly used
+            <AIModelManager /> 
           </>
         )}
         <Footer />
